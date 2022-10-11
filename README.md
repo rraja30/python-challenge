@@ -1,6 +1,5 @@
 # Datasets with Python
 
-In this assignment, you'll complete two challenges in which you'll apply your new Python skills. 
 ## PyBank 
 
 In this challenge, you are tasked with creating a Python script to analyze the financial records of your company. You will give a set of financial data called [budget_data.csv](PyBank/Resources/budget_data.csv). The dataset is composed of two columns: "Date" and "Profit/Losses". (Thankfully, your company has rather lax standards for accounting, so the records are simple.)
